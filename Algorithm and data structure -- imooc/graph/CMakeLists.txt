@@ -3,5 +3,5 @@ project(graph)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp SpareGraph.cpp SpareGraph.h DenseGraph.cpp DenseGraph.h ReadGraph.cpp ReadGraph.h Component.cpp Component.h Path.cpp Path.h ShortestPath.cpp ShortestPath.h)
+set(SOURCE_FILES main.cpp SpareGraph.cpp SpareGraph.h DenseGraph.cpp DenseGraph.h ReadGraph.cpp ReadGraph.h Component.cpp Component.h Path.cpp Path.h ShortestPath.cpp ShortestPath.h Edge.cpp Edge.h DenseGraphWithWeight.cpp DenseGraphWithWeight.h)
 add_executable(graph ${SOURCE_FILES})

@@ -1,15 +1,15 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/graph.dir/main.cpp.obj"
-  "CMakeFiles/graph.dir/SpareGraph.cpp.obj"
-  "CMakeFiles/graph.dir/DenseGraph.cpp.obj"
-  "CMakeFiles/graph.dir/ReadGraph.cpp.obj"
-  "CMakeFiles/graph.dir/Component.cpp.obj"
-  "CMakeFiles/graph.dir/Path.cpp.obj"
-  "CMakeFiles/graph.dir/ShortestPath.cpp.obj"
+  "CMakeFiles/graph.dir/main.cpp.o"
+  "CMakeFiles/graph.dir/SpareGraph.cpp.o"
+  "CMakeFiles/graph.dir/DenseGraph.cpp.o"
+  "CMakeFiles/graph.dir/ReadGraph.cpp.o"
+  "CMakeFiles/graph.dir/Component.cpp.o"
+  "CMakeFiles/graph.dir/Path.cpp.o"
+  "CMakeFiles/graph.dir/ShortestPath.cpp.o"
+  "CMakeFiles/graph.dir/Edge.cpp.o"
+  "CMakeFiles/graph.dir/DenseGraphWithWeight.cpp.o"
   "graph.pdb"
-  "graph.exe"
-  "graph.exe.manifest"
-  "libgraph.dll.a"
+  "graph"
 )
 
 # Per-language clean rules from dependency scanning.

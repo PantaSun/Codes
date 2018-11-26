@@ -1,3 +1,3 @@
-D:/CorC++/MoocAlgs/graph/cmake-build-debug/CMakeFiles/graph.dir
-D:/CorC++/MoocAlgs/graph/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CorC++/MoocAlgs/graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pantasuna/Documents/C++Codes/GitCodes/Codes/Algorithm and data structure -- imooc/graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pantasuna/Documents/C++Codes/GitCodes/Codes/Algorithm and data structure -- imooc/graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pantasuna/Documents/C++Codes/GitCodes/Codes/Algorithm and data structure -- imooc/graph/cmake-build-debug/CMakeFiles/graph.dir
